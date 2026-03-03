@@ -1,4 +1,4 @@
-# 🏦 Banking Data Automation Portfolio
+# Banking Data Automation Portfolio
 
 This repository contains enterprise-style data automation projects
 focused on cleaning, transforming, validating, and summarizing banking
@@ -15,7 +15,7 @@ The goal of this portfolio is to demonstrate hands-on experience in:
 
 ------------------------------------------------------------------------
 
-## 🛠 Tools & Technologies Used
+## Tools & Technologies Used
 
 -   Alteryx Designer\
 -   SQL\
@@ -32,9 +32,9 @@ Future additions may include:
 
 ------------------------------------------------------------------------
 
-## 📂 Projects Included
+## Projects Included
 
-### 1️⃣ Client Transaction Data Cleaning & Risk Automation
+### Client Transaction Data Cleaning & Risk Automation
 
 A simulated Canadian banking dataset was cleaned and transformed using
 Alteryx workflows to:
@@ -55,7 +55,7 @@ Includes:
 
 ------------------------------------------------------------------------
 
-## 🎯 Objective of This Repository
+## Objective of This Repository
 
 To demonstrate readiness for roles involving:
 
@@ -74,7 +74,7 @@ Each project emphasizes:
 
 ------------------------------------------------------------------------
 
-## 📈 Methodology Approach
+## Methodology Approach
 
 All projects follow a structured approach:
 
@@ -87,7 +87,7 @@ All projects follow a structured approach:
 
 ------------------------------------------------------------------------
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 Planned additions include:
 
@@ -98,8 +98,7 @@ Planned additions include:
 
 ------------------------------------------------------------------------
 
-## 👤 Author
+## Author
 
-Garv Dudy\
-Computer Programming & Data Analytics Student\
-Toronto, Canada
+Garv | www.garvdudy.com
+Computer Programming & Data Analytics Student | Toronto, Canada
