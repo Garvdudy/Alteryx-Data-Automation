@@ -1,1 +1,61 @@
-CIBC_Banking_Client_Data_Automation_Alteryx_Project.pdf
+Final Report Name : CIBC_Banking_Client_Data_Automation_Alteryx_Project.pdf
+
+
+
+📁 What To Include In The Repo
+1️⃣ Raw Dataset
+Upload:
+CIBC_Client_Transactions_Dirty.xlsx
+Rename it professionally:
+raw_client_transactions.xlsx
+2️⃣ Alteryx Workflow File
+Upload:
+.yxmd file
+Rename:
+client_data_cleaning_workflow.yxmd
+3️⃣ Cleaned Output File
+After processing, export:
+cleaned_client_transactions.xlsx
+4️⃣ Risk Summary / Aggregation File
+Example:
+risk_summary_by_region.xlsx
+5️⃣ Documentation (VERY IMPORTANT)
+Yes — create a proper report.
+This is what most students don’t do.
+Create:
+Project_Documentation.md (or PDF)
+Include sections:
+📄 Suggested Documentation Structure
+1. Business Problem
+Example:
+The bank’s client transaction dataset contains inconsistent formats, null values, and invalid entries, which prevents accurate reporting and risk monitoring.
+2. Objective
+Clean transaction dataset
+Standardize fields
+Identify high-risk transactions
+Automate summarization by region and client
+3. Data Issues Identified
+Null transaction IDs
+Mixed date formats
+Negative and invalid amounts
+Inconsistent account status casing
+Missing payment methods
+4. Methodology (Alteryx Workflow Steps)
+Input Data
+Select Tool (column cleanup)
+Formula Tool (risk flag)
+Filter Tool (remove invalid records)
+Summarize Tool (aggregation)
+Output Data
+5. Key Insights
+Example:
+X% transactions flagged high-risk
+Toronto region highest volume
+Credit card highest risk concentration
+6. Automation Value
+Explain:
+Manual Excel process replaced
+Repeatable workflow
+Error reduction
+Faster reporting
+This is what banks care about.
